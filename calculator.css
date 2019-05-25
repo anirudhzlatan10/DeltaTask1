@@ -1,0 +1,54 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+body{
+  background-image: url("charles-466056-unsplash.jpg");
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.container {
+  background-image: url("carissa-gan-76304-unsplash.jpg");
+  min-height: 400px;
+  padding: 16px;
+  margin: 0%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.screen{
+  background-color: aliceblue;
+  opacity: 0.84;
+  margin: 0;
+  padding: 16px;
+  
+  }
+.btn{
+  
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+}
