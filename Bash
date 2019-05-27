@@ -1,0 +1,622 @@
+sudo i
+man sudo_root
+sudo adduser MasterH
+sudo adduser masterh
+sudo adduser heisenberg
+sudo a
+sudo adduser heisenberg
+sudo adduser hertz
+sudo adduser holland
+sudo adduser heisenberg1
+sudo adduser h2
+sudo adduser h3
+sudo adduser h4
+sudo adduser h5
+sudo adduser h6
+sudo adduser h7
+sudo adduser h8
+sudo adduser h9
+sudo adduser h10
+sudo adduser h11
+sudo adduser h12
+sudo adduser h13
+sudo adduser h14
+sudo adduser h15
+sudo adduser h16
+sudo adduser h17
+sudo adduser h18
+sudo adduser h19
+sudo adduser h20
+sudo adduser hz1
+sudo adduser hz2
+sudo adduser hz3
+sudo adduser hz4
+sudo adduser hz5
+sudo adduser hz6
+sudo adduser hz7
+sudo adduser hz8
+sudo adduer hz9
+sudo adduser hz9
+sudo adduser hz10
+sudo adduser hz11
+sudo adduser hz12
+sudo adduser hz13
+sudo adduser hz14
+sudo adduser hz15
+sudo adduser hz16
+sudo adduser hz17
+sudo adduser h18
+sudo adduser hz18
+sudo adduser hz19
+sudo adduser hz20
+sudo adduser hd1
+sudo adduser hd2
+sudo adduser hd3
+sudo adduser hd4
+sudo adduser hd5
+sudo adduser hd6
+sudo adduser hd7
+sudo adduser hd8
+sudo adduser hd9
+sudo adduser hd10
+sudo adduser hd11
+sudo adduser hd12
+sudo adduser hd13
+sudo adduser hd14
+sudo adduser hd15
+sudo adduser hd16
+sudo adduser hd17
+sudo adduser hd18
+sudo adduser hd19
+sudo adduser 20
+sudo adduser hd20
+su heisenberg
+sudo groupadd scientist
+sudo useradd heisenberg scientist
+sudo useradd hertz scientist
+sudo useradd holland scientist
+sudo adduser holland scientist
+sudo adduser hertz scientist
+sudo adduser heisenberg scientist
+sudo groupadd heisenberginterns
+sudo adduser heisenberg1 heisenberginterns
+sudo adduser h2 heisenberginterns
+sudo adduser h3 heisenberginterns
+sudo adduser h4 heisenberginterns
+sudo adduser h5 heisenberginterns
+sudo adduser h6 heisenberginterns
+sudo adduser h7 heisenberginterns
+sudo adduser h8 heisenberginterns
+sudo adduser h9 heisenberginterns
+sudo adduser h10 heisenberginterns
+sudo adduser h11 heisenberginterns
+sudo adduser h12 heisenberginterns
+sudo adduser h13 heisenberginterns
+sudo adduser h14 heisenberginterns
+sudo adduser h15 heisenberginterns
+sudo adduser h16 heisenberginterns
+sudo adduser h17 heisenberginterns
+sudo adduser h18 heisenberginterns
+sudo adduser h19 heisenberginterns
+sudo adduser h20 heisenberginterns
+sudo groupadd hertzinterns
+sudo adduser hz1 hertzinterns
+sudo adduser hz2 hertzinterns
+sudo adduser hz3 hertzinterns
+sudo adduser hz4 hertzinterns
+sudo adduser hz5 hertzinterns
+sudo adduser hz6 hertzinterns
+sudo adduser hz7 hertzinterns
+sudo adduser hz8 hertzinterns
+sudo adduser hz9 hertzinterns
+sudo adduser hz10 hertzinterns
+sudo adduser hz11 hertzinterns
+sudo adduser hz12 hertzinterns
+sudo adduser hz13 hertzinterns
+sudo adduser hz14 hertzinterns
+sudo adduser hz15 hertzinterns
+sudo adduser hz16 hertzinterns
+sudo adduser hz17 hertzinterns
+sudo adduser hz18 hertzinterns
+sudo adduser hz19 hertzinterns
+sudo adduser hz20 hertzinterns
+sudo groupadd hollandinterns
+sudo adduser hd1 hollandinterns
+sudo adduser hd2 hollandinterns
+sudo adduser hd3 hollandinterns
+sudo adduser hd4 hollandinterns
+sudo adduser hd5 hollandinterns
+sudo adduser hd6 hollandinterns
+sudo adduser hd7 hollandinterns
+sudo adduser hd8 hollandinterns
+sudo adduser hd9 hollandinterns
+sudo adduser hd10 hollandinterns
+sudo adduser hd11 hollandinterns
+sudo adduser hd12 hollandinterns
+sudo adduser hd13 hollandinterns
+sudo adduser hd14 hollandinterns
+sudo adduser hd15 hollandinterns
+sudo adduser hd16 hollandinterns
+sudo adduser hd17 hollandinterns
+sudo adduser hd18 hollandinterns
+sudo adduser hd19 hollandinterns
+sudo adduser hd20 hollandinterns
+mkdir heisenberg
+mkdir hertz
+mkdir holland
+sudo chmod 700 heisenberg
+sudo chown heisenberg heisenberg
+sudo chmod 700 hertz
+sudo chown hertz hertz
+sudo chmod 700 holland
+sudo chown holland holland
+mkdir heisenberg1
+mkdir h2
+mkdir h3
+mkdir h4
+mkdir h5
+mkdir h6
+mkdir h7
+mkdir h8
+mkdir h9
+mkdir h10
+mkdir h11
+mkdir h12
+mkdir h13
+mkdir h14
+mkdir h15
+mkdir h16
+mkdir h17
+mkdir h18
+mkdir h19
+mkdir h20
+mkdir hz1
+mkdir hz2
+mkdir hz3
+mkdir hz4
+mkdir hz5
+mkdir hz6
+mkdir hz7
+mkdir hz8
+mkdir hz9
+mkdir hz01
+mkdir hz10
+mkdir hz11
+mkdir hz12
+mkdir hz13
+mkdir hz14
+mkdir hz15
+mkdir hz16
+mkdir hz17
+mkdir hz18
+mkdir hz19
+mkdir hz20
+mkdir hd1
+mkdir hd2
+mkdir hd3
+mkdir hd4
+mkdir hd5
+mkdir hd6
+mkdir hd7
+mkdir hd8
+mkdir hd9
+mkdir hd10
+mkdir hd11
+mkdir hd12
+mkdir hd13
+mkdir hd14
+mkdir hd15
+mkdir hd16
+mkdir hd17
+mkdir hd18
+mkdir hd19
+mkdir hd20
+mkdir heisenberg/task1
+su
+su-heisenberg
+su- heisenberg
+su heisenberg
+mkdir heisenberg1/task1
+mkdir heisenberg1/task2
+mkdir heisenberg1/task3
+mkdir heisenberg1/task4
+mkdir heisenberg1/task5
+mkdir h2/task5
+mkdir h2/task4
+mkdir h2/task3
+mkdir h2/task2
+mkdir h2/task1
+mkdir h3/task1
+mkdir h3/task2
+mkdir h3/task3
+mkdir h3/task4
+mkdir h3/task5
+mkdir h4/task5
+mkdir h4/task4
+mkdir h4/task3
+mkdir h4/task2
+mkdir h4/task1
+mkdir h5/task1
+mkdir h5/task2
+mkdir h5/task3
+mkdir h5/task4
+mkdir h5/task5
+mkdir h6/task5
+mkdir h6/task4
+mkdir h6/task3
+mkdir h6/task2
+mkdir h6/task1
+mkdir h7/task1
+mkdir h7/task2
+mkdir h7/task3
+mkdir h7/task4
+mkdir h7/task5
+mkdir h8/task5
+mkdir h8/task4
+mkdir h8/task3
+mkdir h8/task2
+mkdir h8/task1
+mkdir h9/task1
+mkdir h9/task2
+mkdir h9/task4
+mkdir h9/task3
+mkdir h9/task5
+mkdir h10/task5
+mkdir h10/task4
+mkdir h10/task3
+mkdir h10/task2
+mkdir h10/task1
+mkdir h11/task1
+mkdir h11/task2
+mkdir h11/task3
+mkdir h11/task4
+mkdir h11/task5
+mkdir h12/task5
+mkdir h12/task4
+mkdir h12/task3
+mkdir h12/task2
+mkdir h12/task1
+su holland
+setfacl -dm "entry" h1 
+setfacl -dm "entry" heisenberg1 
+setfacl -m "u:heisenberg:777" heisenberg1
+sudo chmod 770 heisenberg
+sudo groupadd hg1
+sudo adduser heisenberg hg1
+sudo adduser heisenberg1 hg1
+sudo chown masterh:hg1 heisenberg
+sudo chmod 770 heisenberg1
+sudo chown masterh:hg1 heisenberg1
+sudo chmod 770 h2
+sudo groupadd hg2
+sudo adduser heisenberg hg2
+sudo adduser h2 hg2
+sudo chown masterh:hg2 h2
+sudo chmod 770 h3
+sudo adduser h3 hg3
+sudo groupadd hg3
+sudo adduser h3 hg3
+sudo adduser heisenberg hg3
+sudo chown masterh:hg3 h3
+sudo groupadd hg4
+sudo adduser heisenberg hg4
+sudo adduser h4 hg4
+sudo chmod 770 h4
+sudo chown masterh:hg4 h4
+sudo groupadd hg5
+sudo adduser h5 hg5
+sudo adduser heisenberg hg5
+sudo chmod 770 h5
+sudo chown masterh:hg5 h5
+sudo chmod 770 h6
+sudo groupadd hg6
+sudo adduser heisenberg hg6
+sudo adduser h6 hg6
+sudo chown masterh:hg6 h6
+sudo groupadd hg7
+sudo adduser h7 hg7
+sudo adduser heisenberg hg7
+sudo chown masterh:hg7 h7
+sudo groupadd hg8
+sudo adduser heisenberg hg8
+sudo adduser h8 hg8
+sudo chmod 770 h7
+sudo chown masterh:hg8 h8
+sudo chmod 770 h8
+sudo chmod 770 h9
+sudo chmod 770 h10
+sudo chmod 770 h11
+sudo chmod 770 h12
+sudo chmod 770 h13
+sudo chmod 770 h14
+sudo chmod 770 h15
+sudo chmod 770 h16
+sudo chmod 770 h17
+sudo chmod 770 h18
+sudo chmod 770 h19
+sudo chmod 770 h20
+sudo groupadd hg9
+sudo groupadd hg10
+sudo groupadd hg11
+sudo groupadd hg12
+sudo groupadd hg13
+sudo groupadd hg14
+sudo groupadd hg15
+sudo groupadd hg16
+sudo groupadd hg17
+sudo groupadd hg18
+sudo groupadd hg19
+sudo groupadd hg20
+sudo adduser heisenberg hg9
+sudo adduser heisenberg hg10
+sudo adduser heisenberg hg11
+sudo adduser heisenberg hg12
+sudo adduser heisenberg hg13
+sudo adduser heisenberg hg14
+sudo adduser heisenberg hg15
+sudo adduser heisenberg hg16
+sudo adduser heisenberg hg17
+sudo adduser heisenberg hg18
+sudo adduser heisenberg hg19
+sudo adduser heisenberg hg20
+sudo adduser h9 to hg9
+sudo adduser h9 hg9
+sudo adduser h10 hg10
+sudo adduser h11 hg11
+sudo adduser h12 hg12
+sudo adduser h13 hg13
+sudo adduser h13 hg14
+sudo userdel h13 hg14
+sudo deluser h13 hg14
+sudo adduser h14 hg14
+sudo adduser h15 hg15
+sudo adduser h16 hg16
+sudo adduser h17 hg17
+sudo adduser h18 hg18
+sudo adduser h19 hg19
+sudo adduser h20 hg20
+sudo chown masterh:hg9 h9
+sudo chown masterh:hg10 h10
+sudo chown masterh:hg11 h11
+sudo chown masterh:hg12 h12
+sudo chown masterh:hg13 h13
+sudo chown masterh:hg14 h14
+sudo chown masterh:hg15 h15
+sudo chown masterh:hg16 h16
+sudo chown masterh:hg17 h17
+sudo chown masterh:hg18 h18
+sudo chown masterh:hg19 h19
+sudo chown masterh:hg20 h20
+sudo chmod 770 hz1
+sudo chmod 770 hz2
+sudo chmod 770 hz3
+sudo chmod 770 hz4
+sudo chmod 770 hz5
+sudo chmod 770 hz6
+sudo chmod 770 hz7
+sudo chmod 770 hz8
+sudo chmod 770 hz9
+sudo chmod 770 hz10
+sudo chmod 770 hz11
+sudo chmod 770 hz12
+sudo chmod 770 hz13
+sudo chmod 770 hz14
+sudo chmod 770 hz15
+sudo chmod 770 hz16
+sudo chmod 770 hz17
+sudo chmod 770 hz18
+sudo chmod 770 hz19
+sudo chmod 770 hz20
+sudo groupadd hzg1
+sudo groupadd hzg2
+sudo groupadd hzg3
+sudo groupadd hzg4
+sudo groupadd hzg5
+sudo groupadd hzg6
+sudo groupadd hzg7
+sudo groupadd hzg8
+sudo groupadd hzg9
+sudo groupadd hzg10
+sudo groupadd hzg11
+sudo groupadd hzg12
+sudo groupadd hzg13
+sudo groupadd hzg14
+sudo groupadd hzg15
+sudo groupadd hzg16
+sudo groupadd hzg17
+sudo groupadd hzg18
+sudo groupadd hzg19
+sudo groupadd hzg20
+sudo adduser hertz hzg1
+sudo adduser hertz hzg2
+sudo adduser hertz hzg3
+sudo adduser hertz hzg4
+sudo adduser hertz hzg5
+sudo adduser hertz hzg6
+sudo adduser hertz hzg7
+sudo adduser hertz hzg8
+sudo adduser hertz hzg9
+sudo adduser hertz hzg10
+sudo adduser hertz hzg11
+sudo adduser hertz hzg12
+sudo adduser hertz hzg13
+sudo adduser hertz hzg14
+sudo adduser hertz hzg15
+sudo adduser hertz hzg16
+sudo adduser hertz hzg17
+sudo adduser hertz hzg18
+sudo adduser hertz hzg19
+sudo adduser hertz hzg20
+sudo adduser hz1 hzg1
+sudo adduser hz2 hzg2
+sudo adduser hz2 hzg3
+sudo deluser hz3 hzg3
+sudo deluser hz2 hzg3
+sudo adduser hz3 hzg3
+sudo adduser hz4 hzg4
+sudo adduser hz5 hzg5
+sudo adduser hz6 hzg6
+sudo adduser hz hzg7
+sudo adduser hz7 hzg7
+sudo adduser hz8 hzg8
+sudo adduser hz9 hzg9
+sudo adduser hz10 hzg10
+sudo adduser hz11 hzg11
+sudo adduser hz12 hzg12
+sudo adduser hz13 hzg13
+sudo adduser hz14 hzg14
+sudo adduser hz15 hzg15
+sudo adduser hz16 hzg16
+sudo adduser hz17 hzg17
+sudo adduser hz18 hzg18
+sudo adduser hz19 hzg19
+sudo adduser hz20 hzg20
+sudo chown masterh:hzg1 hz1
+sudo chown masterh:hzg2 hz2
+sudo chown masterh:hzg3 hz3
+sudo chown masterh:hzg4 hz4
+sudo chown masterh:hzg5 hz5
+sudo chown masterh:hzg6 hz6
+sudo chown masterh:hzg7 hz7
+sudo chown masterh:hzg8 hz8
+sudo chown masterh:hzg9 hz9
+sudo chown masterh:hzg10 hz10
+sudo chown masterh:hzg11 hz11
+sudo chown masterh:hzg12 hz12
+sudo chown masterh:hzg13 hz13
+sudo chown masterh:hzg14 hz14
+sudo chown masterh:hzg15 hz15
+sudo chown masterh:hzg16 hz16
+sudo chown masterh:hzg17 hz17
+sudo chown masterh:hzg18 hz18
+sudo chown masterh:hzg19 hz19
+sudo chown masterh:hzg20 hz20
+sudo chmod 770 hd1
+sudo chmod 770 hd2
+sudo chmod 770 hd3
+sudo chmod 770 hd4
+sudo chmod 770 hd5
+sudo chmod 770 hd6
+sudo chmod 770 hd7
+sudo chmod 770 hd8
+sudo chmod 770 hd9
+sudo chmod 770 hd10
+sudo chmod 770 hd11
+sudo chmod 770 hd12
+sudo chmod 770 hd13
+sudo chmod 770 hd14
+sudo chmod 770 hd15
+sudo chmod 770 hd16
+sudo chmod 770 hd17
+sudo chmod 770 hd18
+sudo chmod 770 hd19
+sudo chmod 770 hd20
+sudo groupadd hdg1
+sudo groupadd hdg2
+sudo groupadd hdg3
+sudo groupadd hdg4
+sudo groupadd hdg5
+sudo groupadd hdg6
+sudo groupadd hdg7
+sudo groupadd hdg8
+sudo groupadd hdg9
+sudo groupadd hdg10
+sudo groupadd hdg11
+sudo groupadd hdg12
+sudo groupadd hdg13
+sudo groupadd hdg4
+sudo groupadd hdg14
+sudo groupadd hdg15
+sudo groupadd hdg16
+sudo groupadd hdg17
+sudo groupadd hdg18
+sudo groupadd hdg19
+sudo groupadd hdg20
+sudo adduser holland hdg1 
+sudo adduser holland hdg2
+sudo adduser holland hdg3
+sudo adduser holland hdg4
+sudo adduser holland hdg5
+sudo adduser holland hdg6
+sudo adduser holland hdg7
+sudo adduser holland hdg8
+sudo adduser holland hdg9
+sudo adduser holland hdg10
+sudo adduser holland hdg1`
+sudo adduser holland hdg11
+sudo adduser holland hdg12
+sudo adduser holland hdg13
+sudo adduser holland hdg14
+sudo adduser holland hdg15
+sudo adduser holland hdg16
+sudo adduser holland hdg17
+sudo adduser holland hdg18
+sudo adduser holland hdg19
+sudo adduser holland hdg20
+sudo adduser hd1 hdg1 
+sudo adduser hd2 hdg2
+sudo adduser hd3 hdg3
+sudo adduser hd4 hdg4
+sudo adduser hd5 hdg5
+sudo adduser hd6 hdg6
+sudo adduser hd7 hdg7
+sudo adduser hd8 hdg8
+sudo adduser hd9 hdg9
+sudo adduser hd10 hdg10
+sudo adduser hd11 hdg11
+sudo adduser hd12 hdg12
+sudo adduser hd13 hdg13
+sudo adduser hd14 hdg14
+sudo adduser hd15 hdg15
+sudo adduser hd16 hdg16
+sudo adduser hd17 hdg17
+sudo adduser hd18 hdg18
+sudo adduser hd19 hdg19
+sudo adduser hd20 hdg20
+sudo chown masterh:hdg1 hd1
+sudo chown masterh:hdg2 hd2
+sudo chown masterh:hdg3 hd3
+sudo chown masterh:hdg4 hd4
+sudo chown masterh:hdg5 hd5
+sudo chown masterh:hdg6 hd6
+sudo chown masterh:hdg6 hd7
+sudo chown masterh:hdg7 hd7
+sudo chown masterh:hdg8 hd8
+sudo chown masterh:hdg9 hd9
+sudo chown masterh:hdg10 hd10
+sudo chown masterh:hdg11 hd11
+sudo chown masterh:hdg12 hd12
+sudo chown masterh:hdg13 hd13
+sudo chown masterh:hdg14 hd14
+sudo chown masterh:hdg15 hd15
+sudo chown masterh:hdg16 hd16
+sudo chown masterh:hdg17 hd17
+sudo chown masterh:hdg18 hd18
+sudo chown masterh:hdg19 hd19
+sudo chown masterh:hdg20 hd20
+sudo groupadd scientist1
+sudo groupadd scientist2
+sudo groupadd scientist3
+sudo addusr heisenberg scientist1
+sudo adduser heisenberg scientist1
+sudo adduser hertz scientist2
+sudo adduser holland scientist3
+sudo chmod 770 heisenberg
+sudo chmod 770 hertz
+sudo chmod 770 holland
+sudo chown masterh:scientist1 heisenberg
+sudo chown masterh:scientist2 hertz
+sudo chown masterh:scientist3 holland
+crontab -e nano
+0 0 * * * cp heisenberg/task1/heisenbergtask1.txt heisenberg1/task1
+crontab 0 0 * * * cp heisenberg/task1/heisenbergtask1.txt heisenberg1/task1
+history
+sudo chmod 700 masterh
+0 0 * * * cp heisenberg/task1/heisenbergtask1.txt heisenberg1/task1
+ln crontab
+ln crontab 0 0 * * * cp heisenberg/task1/heisenbergtask1.txt heisenberg1/task1
+su heisenberg1
+history
+crontab -e
+bash
+crontab -e
